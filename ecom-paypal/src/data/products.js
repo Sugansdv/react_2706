@@ -14,7 +14,7 @@ const products = [
   {
     id: 3,
     name: "Headphones",
-    price: 222229,
+    price: 1999,
     image: "https://via.placeholder.com/300x200.png?text=Headphones"
   }
 ];
