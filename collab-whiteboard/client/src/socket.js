@@ -1,3 +1,3 @@
 import { io } from "socket.io-client";
-const socket = io("http://localhost:4000");
+const socket = io("https://whiteboard-server-7y3a.onrender.com");
 export default socket;
